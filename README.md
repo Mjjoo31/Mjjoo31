@@ -1,6 +1,6 @@
 <div align = left>
 
-![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=Hello, I'm Minjeong!&)
+![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=Minjeong&)
 
 ## 🙌 Introduction 🙌
 Hello, I'm Minjeong Joo!
