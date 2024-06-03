@@ -28,10 +28,10 @@ Feel free to check out my projects and get in touch if you want to collaborate o
 
 
 ##✨ About me ✨
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/c54f2f1549714636b09debb086bf690d?pvs=4)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/c54f2f1549714636b09debb086bf690d?pvs=4)
 
-![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/ming__ddo)
+[![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/ming__ddo)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mjjoo31&count_private=true&show_icons=true&theme=solarized-light)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mjjoo31&count_private=true&show_icons=true&theme=solarized-light)
 
 </div>
