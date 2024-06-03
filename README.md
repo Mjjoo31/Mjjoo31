@@ -23,9 +23,9 @@ Feel free to check out my projects and get in touch if you want to collaborate o
 
 ## ✨ About me ✨
 [![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/c54f2f1549714636b09debb086bf690d?pvs=4)
-[![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/ming__ddo)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/minjeong-joo-968bbb291/)
-<a href="https://blog.naver.com/ming__ddo" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" width = 80px height = 30px/></a>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minjeong-joo-968bbb291/)
+[![Blog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/ming__ddo)
+
 
 
 </div>
